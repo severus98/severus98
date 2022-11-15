@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @severus98
+- 👋 Hi, I’m @severus98 from CAS
 - 👀 I’m interested in ISTN(Integrated Satellite-Terrestrial Network)，RAN slicing and MEC
 - 🌱 I’m currently learning Deep Learning and cloud computing 
 - 💞️ I’m looking to collaborate on resource management for communication, computation and storage
